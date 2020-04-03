@@ -8,6 +8,7 @@ def meal_choice(veg1, veg2, protein = "tofu")
  return order 
 end
 
+=begin 
 answer
 def meal_choice(veg1, veg2, protein = 'tofu')
   puts "What a nutritious meal!"
@@ -15,3 +16,4 @@ def meal_choice(veg1, veg2, protein = 'tofu')
   puts meal
   meal
 end
+=end
